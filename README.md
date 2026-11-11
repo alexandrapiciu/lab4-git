@@ -1,2 +1,2 @@
 # lab4-git
-Team: A and B
+# Lab 4 project by A
